@@ -1,0 +1,15 @@
+.box1{
+    background-color: bisque;
+    padding: 10px;
+    margin:40px;
+    margin-left: 600px;
+    width:700px ;
+}
+
+.box2{
+    background-color: rgba(36, 35, 35, 0.514);
+    position: absolute;
+    bottom: 500px;
+    left: 400px;
+    width: 300px;
+}
